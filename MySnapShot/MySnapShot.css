@@ -1,0 +1,52 @@
+/* *{
+    background: rgb(80, 74, 74);
+} */
+
+#gallery{
+    display: flex;
+    flex-direction: row;
+    /* width: 150px; */
+    margin-left: 150px;
+
+}
+.input{
+    
+}
+
+
+#heading{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+
+#myoptions{
+  
+      display: flex;
+      justify-content: center;
+      position: relative;
+
+    }
+    #container{
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* height: 100px;
+    width: 50px; */
+}
+img{
+    margin: 50px;
+    height: 150px;
+    width: 150px; 
+}
+
+
+.mybtn{
+    /* align-items: center; */
+}
+
+.button{
+    /* justify-content:  center; */
+    color: red;
+}
